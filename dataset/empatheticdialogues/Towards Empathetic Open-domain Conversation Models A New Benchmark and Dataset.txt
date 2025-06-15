@@ -1,0 +1,2 @@
+https://aclanthology.org/P19-1534/
+https://github.com/facebookresearch/EmpatheticDialogues

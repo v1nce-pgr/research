@@ -1,0 +1,3 @@
+https://aclanthology.org/2021.acl-long.269/
+
+https://github.com/thu-coai/Emotional-Support-Conversation
